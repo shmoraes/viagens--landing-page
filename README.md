@@ -1,5 +1,5 @@
 
-# Projeto de certificação (Trilha 2. HTML, CSS e JavaScript)
+# Projeto de certificação 1 (Trilha 2. HTML, CSS e JavaScript)
 # TripMe - Agência de Viagens
 # Autor: Sandro Henrique Silveira de Moraes
 # Turma: DEVStart BA
